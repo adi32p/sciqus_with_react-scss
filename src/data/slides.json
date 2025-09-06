@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.pexels.com/photos/3184287/pexels-photo-3184287.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "title": "Modern Architecture",
+    "description": "Stunning contemporary designs"
+  },
+  {
+    "id": 2,
+    "image": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "title": "Urban Landscape",
+    "description": "City views and perspectives"
+  },
+  {
+    "id": 3,
+    "image": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "title": "Interior Design",
+    "description": "Beautiful interior spaces"
+  }
+]

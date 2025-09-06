@@ -1,0 +1,34 @@
+{
+  "title": "Static Content Hub",
+  "image": {
+    "src": "https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "alt": "Team collaboration",
+    "label": "Team Collaboration"
+  },
+  "steps": [
+    {
+      "id": 1,
+      "title": "Planning",
+      "description": "Strategic planning and roadmap development for successful project execution.",
+      "color": "orange"
+    },
+    {
+      "id": 2,
+      "title": "Execution",
+      "description": "Implementation of planned strategies with focus on quality and efficiency.",
+      "color": "blue"
+    },
+    {
+      "id": 3,
+      "title": "Review",
+      "description": "Continuous monitoring and optimization to ensure project success.",
+      "color": "green"
+    },
+    {
+      "id": 4,
+      "title": "Delivery",
+      "description": "Final delivery with comprehensive documentation and support materials.",
+      "color": "purple"
+    }
+  ]
+}

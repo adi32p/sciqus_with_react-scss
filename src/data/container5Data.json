@@ -1,0 +1,24 @@
+{
+  "optionA": {
+    "title": "Option A: Advanced Analytics",
+    "description": "Comprehensive data analysis and insights for your business growth.",
+    "features": [
+      "Real-time data processing",
+      "Custom dashboard creation",
+      "Advanced reporting tools",
+      "Predictive analytics"
+    ],
+    "color": "blue"
+  },
+  "optionB": {
+    "title": "Option B: User Experience",
+    "description": "Focus on creating exceptional user experiences and interface design.",
+    "features": [
+      "User research and testing",
+      "Interface design optimization",
+      "Accessibility improvements",
+      "Performance enhancement"
+    ],
+    "color": "teal"
+  }
+}

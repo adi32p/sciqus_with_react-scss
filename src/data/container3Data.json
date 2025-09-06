@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "src": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "title": "Workspace Design",
+    "tag": "Office"
+  },
+  {
+    "id": 2,
+    "src": "https://images.pexels.com/photos/3184639/pexels-photo-3184639.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "title": "Meeting Room",
+    "tag": "Conference"
+  },
+  {
+    "id": 3,
+    "src": "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "title": "Collaboration Space",
+    "tag": "Team"
+  },
+  {
+    "id": 4,
+    "src": "https://images.pexels.com/photos/3184317/pexels-photo-3184317.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "title": "Creative Studio",
+    "tag": "Design"
+  }
+]

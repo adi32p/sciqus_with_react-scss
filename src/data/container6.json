@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.pexels.com/photos/3184454/pexels-photo-3184454.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "title": "Project Alpha",
+    "category": "Development",
+    "status": "Active",
+    "progress": 75
+  },
+  {
+    "id": 2,
+    "image": "https://images.pexels.com/photos/3184336/pexels-photo-3184336.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "title": "Design System",
+    "category": "Design",
+    "status": "Review",
+    "progress": 90
+  },
+  {
+    "id": 3,
+    "image": "https://images.pexels.com/photos/3184350/pexels-photo-3184350.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "title": "Marketing Hub",
+    "category": "Marketing",
+    "status": "Planning",
+    "progress": 25
+  }
+]

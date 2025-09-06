@@ -1,0 +1,8 @@
+[
+  { "icon": "HiHome", "label": "Dashboard", "active": true },
+  { "icon": "HiChartBar", "label": "Analytics", "active": false },
+  { "icon": "HiDocument", "label": "Documents", "active": false },
+  { "icon": "HiUser", "label": "Profile", "active": false },
+  { "icon": "HiCog", "label": "Settings", "active": false },
+  { "icon": "HiSupport", "label": "Support", "active": false }
+]

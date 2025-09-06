@@ -1,0 +1,20 @@
+{
+  "title": "About Our Platform",
+  "description": "Our platform provides innovative solutions for modern businesses. We focus on delivering exceptional user experiences through cutting-edge technology and thoughtful design.",
+  "features": [
+    {
+      "title": "Innovation",
+      "description": "Cutting-edge solutions that drive success"
+    },
+    {
+      "title": "Quality",
+      "description": "Excellence in every detail and interaction"
+    }
+  ],
+  "keyFeatures": [
+    "Responsive design across all devices",
+    "Interactive components and animations",
+    "Modern and accessible interface"
+  ],
+  "buttonText": "Learn More"
+}
